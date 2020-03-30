@@ -1,0 +1,6 @@
+[submodule "sample-sub-1"]
+	path = sample-sub-1
+	url = https://github.com/gosutesu/sample-sub-1.git
+[submodule "sample-sub-2"]
+	path = sample-sub-2
+	url = https://github.com/gosutesu/sample-sub-2.git
